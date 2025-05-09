@@ -32,11 +32,17 @@ cd Python-FacialDetection
 ```
 
 2. Execute o script:
+   
 ```bash
 python main.py
 ```
 
-3. Para sair do programa, pressione 'Esc'
+3. Para sair do programa, pressione:
+   
+```bash
+Esc
+```
+   
 
 ## 📸 Exemplo de Uso
 
@@ -56,7 +62,7 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para mais deta
 
 ## ✒️ Autor
 
-[SEU_NOME]
+[Pedro H Paino]
 
 ## 🤝 Contribuições
 
